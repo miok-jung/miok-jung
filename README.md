@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?miok-jung=anuraghazra&show_icons=true&theme=radical)
+![Jung Mi Ok](https://github-readme-stats.vercel.app/api?miok-jung=anuraghazra&show_icons=true&theme=radical)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?miok-jung=anuraghazra)
